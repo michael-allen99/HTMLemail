@@ -1,3 +1,3 @@
 # HTMLemail
 HTML Email created after following the tutorial, only referencing it for support.
-img[finalresult.png]
+![Image of the final result](finalresult.png/raw=true "Final Result")
